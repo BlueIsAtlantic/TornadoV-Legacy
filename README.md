@@ -1,4 +1,4 @@
-# TornadoV 🌪️ (THIS IS THE LEGACY VERSION. THE NEWEST VERSION - [TornadoV++](https://github.com/BlueIsAtlantic/TornadoV.cpp/releases))
+# TornadoV 🌪️ (OUTDATED SOURCE CODE)
 
 TornadoV is an improved version of [Tornado Script by CamxxCore](https://www.gta5-mods.com/scripts/tornado-script).
 
