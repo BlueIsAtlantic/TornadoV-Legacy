@@ -4,6 +4,8 @@ This repository is an archive for a C# version(SHVDN) of TornadoV. None of this 
 
 [Official Website](https://blueisatlantic-projects.onrender.com/tornadov) | [5MODS website](https://www.gta5-mods.com/scripts/tornadov-blueisatlantic)
 
+(LATEST VERSION'S SOURCE CODE IS CLOSED)
+
 TornadoV is an improved version of [Tornado Script by CamxxCore](https://www.gta5-mods.com/scripts/tornado-script).
 
 [My website](https://blueisatlantic-projects.onrender.com/) to see all other planned/created projects or GTA V Mods/Tools
